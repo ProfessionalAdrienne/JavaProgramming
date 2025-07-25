@@ -20,8 +20,8 @@ public class Main {
 	
 	public static void main(String[] args) {
 		System.out.println(multiply(3, 3));
-//		printMultipleTimes("Funko", 3);
-//		printMultipleTimes("Badminton Racket", 100);
+		printMultipleTimes("Funko", 3);
+		printMultipleTimes("Badminton Racket", 100);
 //		printWord("Funko");
 //		printWord("Badminton Racket")
 //		System.out.println("Hello World");
